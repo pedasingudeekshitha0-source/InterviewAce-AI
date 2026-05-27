@@ -31,7 +31,7 @@ AI-powered mock interview preparation platform for students.
 ## 📸 Screenshots
 
 ### Home Page
-(Add screenshot here)
+https://github.com/pedasingudeekshitha0-source/InterviewAce-AI/blob/main/Screenshot_20260527_161258.jpg?raw=true
 
 ### Interview Section
 (Add screenshot here)
