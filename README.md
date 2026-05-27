@@ -40,7 +40,7 @@ AI-powered mock interview preparation platform for students.
 
 ## 🌐 Live Demo
 
-(Add deployed project link here)
+https://stackblitz.com/edit/react-wjxffzgy?file=src%2Fstyle.css
 
 ---
 
